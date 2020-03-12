@@ -11,7 +11,7 @@
 
     "ssh_keypair_name": "Hamza-ElAouane-Eng53-ire-key",
 
-    "ssh_private_key_file": "C:/Hamza-ElAouane-Eng53-ire-key.pem",
+    "ssh_private_key_file": "~/.ssh/Hamza-ElAouane-Eng53-ire-key.pem",
 
     "associate_public_ip_address": "true",
 
